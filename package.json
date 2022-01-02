@@ -1,6 +1,6 @@
 {
   "name": "brotli-js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "compressor and decompressor for Brotli",
   "main": "index.js",
   "scripts": {
